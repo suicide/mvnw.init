@@ -6,3 +6,6 @@ Using this script prevents the wrapper from using the mirror from your `settings
 
 Run in the root of your project to add the wrapper. The script uses your `MAVEN_OPTS` and any arguments you supply
 
+```sh
+curl https://raw.githubusercontent.com/suicide/mvnw.init/master/init.sh | sh
+```
